@@ -1,0 +1,17 @@
+.vscode/
+.vscode/*
+platformio.ini
+.pio/
+.pioenvs/
+.build/
+*.bin
+*.elf
+*.hex
+*.exe
+/.idea/
+.DS_Store
+Thumbs.db
+# Arduino build folder
+build/
+# Libraries installed by Arduino IDE
+libraries/
